@@ -1,10 +1,7 @@
-<img  style="border-radius: 15" align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 🙌🏻, I'm Teerthesh Jain</h1>
 <h3 align="center">A passionate🫡 Software Engineer in the making 🚀.</h3>
-<img style="border-radius: 15"align="right" alt="Coding" width="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teerthesh706" alt="teerthesh706" /></a> </p>
-
+<img style="border-radius: 15px;"align="right" alt="Coding" width="350" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 - 🔭 I’m currently working on **JavaScript📖 and some of its library**
 
 - 🌱 I’m currently learning **MEARN Stack🌈 and Cloud Computing☁️**
