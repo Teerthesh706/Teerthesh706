@@ -1,14 +1,16 @@
 <img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi! I'm <b>Teerthesh</b>👋</h1> 
-<img style="border-radius: 15" align="right" alt="Coding" width="400" height="auto" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+<img  align="right" alt="Coding" width="400" height="532" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 
 
 ## 🚀 About Me
 I'm a passionate Software Engineer in the making 🚀. I believe that in today's fast-paced world, learning new technologies and expanding our skill set is not only essential but also exciting 💻📈. Instead of saying "I can't do it," I choose to adopt a "I will learn it" attitude 💪, knowing that the resources available to me are limitless 🌟.
 ## 
+🏫I'm a undergraduate student, perusing **B.Tech(CSE)** from AIET@Jaipur(2025) 
+
 👩‍💻 I'm currently working on **JavaScript** and some of its libraries📚
 
-🧠 I'm currently learning MEARN Stack🌈 and Cloud Computing☁️
+🧠 I'm currently learning **MEARN Stack🌈** and **Cloud Computing☁️**
 
 🤔 I'm looking for help with **AI ML 🫠**
 
@@ -113,6 +115,17 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teerthesh706&show_icons=true&locale=en" alt="teerthesh706" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teerthesh706&" alt="teerthesh706" /></p>
+
+## 🧰🦾 Things I use to get stuff done
+ 
+🔴OS: Windows 11 <br>
+🟡Laptop: HP Pavillion 15(AMD RYZEN 5)<br>
+🟠Browser: Brave<br>
+🟢Code Editor: VSCode - The best editor out there<br>
+🔵Keyboard: CB GK 16<br>
+🟣Mouse: Zebronics'Transformer<br>
+⚪To Stay Updated: LinkedIn<br>
+
 
 ## 🗣️Feedback
 
