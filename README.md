@@ -40,10 +40,10 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <img src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg" alt="angular" width="40" height="40"/> 
 </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="angularjs" width="40" height="40"/> 
+<img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="angularjs" width="40" height="40" /> 
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="bash" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="bash" width="40" height="40"/> 
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/5_bootstrap.bbf5d3d59c.svg" alt="bootstrap" width="40" height="40"/> 
@@ -58,10 +58,10 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <img src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://symbols.getvecta.com/stencil_25/22_django.7813323447.svg" alt="django" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2Cl7TKrJZnqIcySObGhSToz0G8jAHbfryA&usqp=CAU" alt="express" width="40" height="40"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdna.iconscout.com/img/figma.24122da.svg" alt="figma" width="40" height="40"/> 
@@ -79,7 +79,7 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <img src="https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdna.iconscout.com/img/linux.c7a6a07.svg" alt="linux" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_261/25_mongodb.cef7d00b8a.svg" alt="mongodb" width="40" height="40"/> 
@@ -91,7 +91,7 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> 
 </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="nextjs" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/63_nodejs.124d3fe0e1.svg" alt="nodejs" width="40" height="40"/> 
@@ -112,13 +112,15 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 
 ## 🧩Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teerthesh706&show_icons=true&locale=en&layout=compact" alt="teerthesh706" /></p>
+![teerthesh706's Stats](https://github-readme-stats.vercel.app/api?username=teerthesh706&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teerthesh706&show_icons=true&locale=en" alt="teerthesh706" /></p>
+![teerthesh706's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teerthesh706&theme=react&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teerthesh706&" alt="teerthesh706" /></p>
+![teerthsh706's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teerthesh706&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Teerthesh706&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%"></p>
+
+
 
 ## 🧰🦾 Things I use to get stuff done
  
