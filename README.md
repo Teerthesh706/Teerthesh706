@@ -28,8 +28,7 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 [![Discord](https://img.shields.io/badge/discord-7289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/892037679749922817)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teerthesh706/)
 [![Stack Overflow](https://img.shields.io/badge/stack-overflow-ef8236?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stk.so/teerthesh706)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=Brown)](https://twitter.com/strange_sage)
-[![LeetCode](https://img.shields.io/badge/leetcode-D42027?style=for-the-badge&logo=leetcode&logoColor=Brown)](https://leetcode.com/teerthesh706/)
+[![Twitter](https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=Black)](https://twitter.com/strange_sage)
 
 
 
