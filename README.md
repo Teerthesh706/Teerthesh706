@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<h1 align="center">Hi! I'm <b>Teerthesh</b>👋</h1> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36ba01&center=true&vCenter=true&width=435&lines=Hi!+I'm+Teerthesh%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 <img  align="right" alt="Coding" width="400" height="532" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
-
+<br>
 
 ## 🚀 About Me
 I'm a passionate Software Engineer in the making 🚀. I believe that in today's fast-paced world, learning new technologies and expanding our skill set is not only essential but also exciting 💻📈. Instead of saying "I can't do it," I choose to adopt a "I will learn it" attitude 💪, knowing that the resources available to me are limitless 🌟.
@@ -136,3 +136,4 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 
 If you have any feedback, please reach out to me at teerthesh@gmail.com
 
+<img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer">
