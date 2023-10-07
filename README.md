@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36ba01&center=true&vCenter=true&width=435&lines=Hi!+I'm+Teerthesh%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36ba01&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Teerthesh%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 <img  align="right" alt="Coding" width="400" height="532" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 <br>
 
