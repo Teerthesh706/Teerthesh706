@@ -119,7 +119,7 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Teerthesh706&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%"></p>
 
-
+[![An image of @teerthesh706's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/teerthesh706)](https://holopin.io/@teerthesh706)
 
 ## 🧰🦾 Things I use to get stuff done
  
