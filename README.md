@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a passionate Software Engineer in the making 🚀. I believe that in today's fast-paced world, learning new technologies and expanding our skill set is not only essential but also exciting 💻📈. Instead of saying "I can't do it," I choose to adopt a "I will learn it" attitude 💪, knowing that the resources available to me are limitless 🌟.
 ## 
-🏫I'm an undergraduate student, perusing **B.Tech(CSE)** from AIET@Jaipur(2025) 
+🏫I'm done **B.Tech(CSE)** from AIET@Jaipur(2025) 
 
 👩‍💻 I'm currently working on **JavaScript** and some of its libraries📚
 
@@ -38,9 +38,9 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg" alt="angular" width="40" height="40"/> 
 </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="angularjs" width="40" height="40" /> 
-</a> 
+</a>  -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="bash" width="40" height="40"/> 
 </a> 
@@ -56,48 +56,48 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css3" width="40" height="40"/> 
 </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2Cl7TKrJZnqIcySObGhSToz0G8jAHbfryA&usqp=CAU" alt="express" width="40" height="40"/> 
 </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdna.iconscout.com/img/figma.24122da.svg" alt="figma" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_28/88_visual-studio-team-services-git-repository.c595f4166d.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/37_html5.d4d8050235.svg" alt="html5" width="40" height="40"/> 
 </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/40_java.bc46b9254c.svg" alt="java" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" alt="linux" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_261/25_mongodb.cef7d00b8a.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_261/27_mysql.4e2ff8ff6c.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+</a>  -->
+<!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="nextjs" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/63_nodejs.124d3fe0e1.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://cdna.iconscout.com/img/adobe-ps.3fa4992.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/69_python.34cfd522d6.svg" alt="python" width="40" height="40"/> 
 </a> 
