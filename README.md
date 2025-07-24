@@ -35,9 +35,9 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 ## 🛠 Skills
 
 <p> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg" alt="angular" width="40" height="40"/> 
-</a>
+</a> -->
 <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="angularjs" width="40" height="40" /> 
 </a>  -->
