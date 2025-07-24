@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a passionate Software Engineer in the making 🚀. I believe that in today's fast-paced world, learning new technologies and expanding our skill set is not only essential but also exciting 💻📈. Instead of saying "I can't do it," I choose to adopt a "I will learn it" attitude 💪, knowing that the resources available to me are limitless 🌟.
 ## 
-🏫I'm done **B.Tech(CSE)** from AIET@Jaipur(2025) 
+🏫 I completed my graduation in **B.Tech(CSE)** from AIET@Jaipur(2025) 
 
 👩‍💻 I'm currently working on **JavaScript** and some of its libraries📚
 
