@@ -131,6 +131,11 @@ I'm a passionate Software Engineer in the making 🚀. I believe that in today's
 🟣Mouse: Zebronics'Transformer<br>
 ⚪To Stay Updated: LinkedIn<br>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=teerthesh706&label=Profile%20views&color=blueviolet&plastic" alt="teerthesh706" width="150" />
+<!--  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
+</p>
+
 
 ## 🗣️Feedback
 
